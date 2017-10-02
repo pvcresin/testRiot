@@ -1,2 +1,5 @@
 # testRiot
-riot minimal demo
+
+riot minimal demo environment
+
+Riot.js http://riotjs.com/ja/
