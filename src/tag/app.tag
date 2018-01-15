@@ -5,7 +5,7 @@ app
 		ul
 			li(each='{item, index in list}') {index}: {item}
 
-	style.
+	style(scoped).
 		div {
 			background: cyan;
 		}
